@@ -1,0 +1,36 @@
+[04-Jul-2023 04:58:19 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:19 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:20 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:20 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/ayabank/public_html/index.php on line 34
+[04-Jul-2023 04:58:25 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/vendor/composer/autoload_real.php on line 71
+[04-Jul-2023 04:58:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/ayabank/public_html/vendor/composer/autoload_real.php(61): composerRequire82f16a42032adc04aaa803c3fa7b6a1e('a4a119a56e50fbb...', '/home/ayabank/p...')
+#1 /home/ayabank/public_html/vendor/autoload.php(7): ComposerAutoloaderInit82f16a42032adc04aaa803c3fa7b6a1e::getLoader()
+#2 /home/ayabank/public_html/index.php(34): require('/home/ayabank/p...')
+#3 {main}
+  thrown in /home/ayabank/public_html/vendor/composer/autoload_real.php on line 71
+[04-Jul-2023 04:58:25 UTC] PHP Warning:  require(/home/ayabank/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php): Failed to open stream: No such file or directory in /home/ayabank/public_html/vendor/composer/autoload_real.php on line 71
+[04-Jul-2023 04:58:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/ayabank/public_html/vendor/composer/../symfony/polyfill-php80/bootstrap.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ayabank/public_html/vendor/composer/autoload_real.php:71
+Stack trace:
+#0 /home/ayabank/public_html/vendor/composer/autoload_real.php(61): composerRequire82f16a42032adc04aaa803c3fa7b6a1e('a4a119a56e50fbb...', '/home/ayabank/p...')
+#1 /home/ayabank/public_html/vendor/autoload.php(7): ComposerAutoloaderInit82f16a42032adc04aaa803c3fa7b6a1e::getLoader()
+#2 /home/ayabank/public_html/index.php(34): require('/home/ayabank/p...')
+#3 {main}
+  thrown in /home/ayabank/public_html/vendor/composer/autoload_real.php on line 71
